@@ -1,0 +1,52 @@
+
+button {
+    font-size:20px;
+    color: white;
+    padding:5px;
+    background-color:#5DBCD2;
+    width:300px;
+    text-align:left;
+}
+#chitieumoi {
+    font-size:24px;
+    font-family: Helvetica, Arial, Tahoma, sans-serif;
+}
+.TheP {
+    font-size:18px;
+    color:#387ff2;
+    font-family: Helvetica, Arial, Tahoma, sans-serif;
+}
+.taochitieu:hover {
+    transition:1s 0.2s;
+    background: #0a51c4;
+    color: #fff;
+}
+.kieuchitieu {
+    color:#7d828a;
+    background:white;
+    text-align:center;
+    padding-top:10px;
+    padding-bottom:10px;
+    width:200px;
+    border: 2px solid #7d828a;
+    border-radius: 20px;
+}
+.kieuchitieu:hover {
+    color:#0a51c4;
+    border: 2px solid #0a51c4;
+    transition:1s 0.2s;
+}
+.input {
+    border: 2px solid #7d828a;
+    border-radius: 20px;
+    padding-top:20px;
+    padding-bottom:20px;
+    width:400px;
+    font-size:18px;
+}
+.taochitieu {
+    border-radius: 20px;
+    border:2px solid #7d828a;
+    padding-top:10px;
+    padding-bottom:10px;
+}
