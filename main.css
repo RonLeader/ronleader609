@@ -32,7 +32,7 @@ button {
     border-radius: 20px;
 }
 .kieuchitieu:hover {
-    color:#0a51c4;
+    color:red;
     border: 2px solid #0a51c4;
     transition:1s 0.2s;
 }
